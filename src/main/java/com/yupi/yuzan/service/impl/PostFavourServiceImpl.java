@@ -2,8 +2,8 @@ package com.yupi.yuzan.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.yupi.yuzan.mapper.PostFavourMapper;
+import com.yupi.yuzan.model.domain.PostFavour;
 import com.yupi.yuzan.service.PostFavourService;
-import generator.domain.PostFavour;
 import org.springframework.stereotype.Service;
 
 /**

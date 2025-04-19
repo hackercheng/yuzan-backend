@@ -1,7 +1,8 @@
 package com.yupi.yuzan.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import generator.domain.PostThumb;
+import com.yupi.yuzan.model.domain.PostThumb;
+
 
 /**
 * @author 葛成

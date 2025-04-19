@@ -1,7 +1,8 @@
 package com.yupi.yuzan.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import generator.domain.PostFavour;
+import com.yupi.yuzan.model.domain.PostFavour;
+
 
 /**
 * @author 葛成

@@ -1,7 +1,8 @@
 package com.yupi.yuzan.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import generator.domain.User;
+import com.yupi.yuzan.model.domain.User;
+
 
 /**
 * @author 葛成

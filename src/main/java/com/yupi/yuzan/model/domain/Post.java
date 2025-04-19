@@ -40,32 +40,32 @@ public class Post implements Serializable {
     /**
      * 点赞数
      */
-    private Integer thumbnum;
+    private Integer thumbNum;
 
     /**
      * 收藏数
      */
-    private Integer favournum;
+    private Integer favourNum;
 
     /**
      * 创建用户 id
      */
-    private Long userid;
+    private Long userId;
 
     /**
      * 创建时间
      */
-    private Date createtime;
+    private Date createTime;
 
     /**
      * 更新时间
      */
-    private Date updatetime;
+    private Date updateTime;
 
     /**
      * 是否删除
      */
-    private Integer isdelete;
+    private Integer isDelete;
 
     @TableField(exist = false)
     private static final long serialVersionUID = 1L;

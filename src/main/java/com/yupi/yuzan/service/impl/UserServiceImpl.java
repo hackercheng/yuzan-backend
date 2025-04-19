@@ -2,8 +2,8 @@ package com.yupi.yuzan.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.yupi.yuzan.mapper.UserMapper;
+import com.yupi.yuzan.model.domain.User;
 import com.yupi.yuzan.service.UserService;
-import generator.domain.User;
 import org.springframework.stereotype.Service;
 
 /**

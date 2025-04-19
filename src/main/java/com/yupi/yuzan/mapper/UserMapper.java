@@ -1,7 +1,8 @@
 package com.yupi.yuzan.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import generator.domain.User;
+import com.yupi.yuzan.model.domain.User;
+
 
 /**
 * @author 葛成

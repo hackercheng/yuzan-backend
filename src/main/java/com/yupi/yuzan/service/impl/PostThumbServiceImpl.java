@@ -2,8 +2,8 @@ package com.yupi.yuzan.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.yupi.yuzan.mapper.PostThumbMapper;
+import com.yupi.yuzan.model.domain.PostThumb;
 import com.yupi.yuzan.service.PostThumbService;
-import generator.domain.PostThumb;
 import org.springframework.stereotype.Service;
 
 /**

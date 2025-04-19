@@ -25,22 +25,22 @@ public class PostFavour implements Serializable {
     /**
      * 帖子 id
      */
-    private Long postid;
+    private Long postId;
 
     /**
      * 创建用户 id
      */
-    private Long userid;
+    private Long userId;
 
     /**
      * 创建时间
      */
-    private Date createtime;
+    private Date createTime;
 
     /**
      * 更新时间
      */
-    private Date updatetime;
+    private Date updateTime;
 
     @TableField(exist = false)
     private static final long serialVersionUID = 1L;
